@@ -18,7 +18,11 @@ span {
     align-items: right;
     gap: 1cm;
     margin-top: 70px;
-    font-size: 40px;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
 }
 
 .nav {
@@ -28,6 +32,7 @@ span {
 
 nav ul li a {
     color: black;
+    background-color: rgb(245, 160, 2);
 }
 
 .home {
